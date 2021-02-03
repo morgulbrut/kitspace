@@ -24,7 +24,7 @@
     "marky-markdown": "kasbah/marky-markdown#fix-default-anchors-2",
     "mocha": "^3.4.2",
     "ninja-build-gen": "^0.2.1",
-    "node-sass": "^4.0.0",
+    "node-sass": "^4.13.1",
     "postcss-cli": "^2.6.0",
     "prettier": "^1.10.2",
     "ramda": "^0.23.0",
